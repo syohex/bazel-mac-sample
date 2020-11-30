@@ -1,0 +1,4 @@
+bazel-bazel-mac-sample
+bazel-out
+bazel-bin
+bazel-testlogs
